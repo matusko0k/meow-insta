@@ -10,7 +10,7 @@ export default function Conditions() {
 
   return (
     <Container>
-    <Typography> Táto stránka by mala byť o podmienkách</Typography>
+    <Typography>Pridať</Typography>
     </Container>
   );
 
